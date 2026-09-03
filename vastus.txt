@@ -1,0 +1,19 @@
+Ulesanne 5 vormi saatmise tulemus
+
+Meetod GET, parast vormi taitmist:
+
+index.html?alates=2026-09-15&vabu=5&sort=kuupaev&ainultVabad=1&epost=sergey.mikheev%40ut.ee
+
+Tahelepanekud:
+
+1. Votmed tulevad name-atribuudist, mitte id-atribuudist
+2. Markeruut ilmub aadressile ainult siis, kui see on valitud
+3. Tuhi tekstivali saadetakse tuhi vaartusena
+
+Meetod POST, sama vorm:
+
+Aadressiriba:
+index.html
+
+Network-paneeli Payload all:
+vormi andmed saadetakse paringu kehas, mitte URL-is

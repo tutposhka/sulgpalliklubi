@@ -1,0 +1,22 @@
+Arenduskeskkonna kontroll
+
+Nimi: Sergey Mikheev
+Kuupaev: 03.09.2026
+
+PS> node --version
+v25.8.1
+
+PS> npm --version
+11.11.0
+
+PS> git --version
+git version 2.54.0.windows.1
+
+PS> git config --global user.name
+Sergey Mikheev
+
+PS> git config --global user.email
+sergey.mikheev@ut.ee
+
+PS> git init
+Initialized empty Git repository in C:/Users/tposhka/Documents/sulgpalliklubi/.git/
